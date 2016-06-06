@@ -1,0 +1,21 @@
+{
+  "name": "random-case",
+  "version": "1.0.0",
+  "description": "Simple library for randomizing the capitalization of all characters in a string.",
+  "main": "src/randomCase.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "string",
+    "case",
+    "random",
+    "transform"
+  ],
+  "author": "Cristopher Gonzalvez <n.gonzalvez@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^9.0.0"
+  }
+}
